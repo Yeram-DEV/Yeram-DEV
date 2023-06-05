@@ -1,9 +1,6 @@
-# 🚀 Your Organization's Management Repository 🚀
+# 🚀 Yeram-DEV's Management Repository 🚀
 
-[![GitHub issues](https://img.shields.io/github/issues/your-organization/management-repo)](https://img.shields.io/github/issues/Yeram-DEV/Yeram-DEV?color=red)
-[![GitHub milestones](https://img.shields.io/github/milestones/open/your-organization/management-repo)](https://img.shields.io/github/milestones/progress/Yeram-DEV/Yeram-DEV/1?style=plastic)
-
-이 레포지토리는 `Your Organization`의 프로젝트 관리를 위한 중앙 장소입니다. 여기에서는 이슈 추적, 마일스톤 설정, 프로젝트 진행 상황 관리, 그리고 팀 간의 대화를 조직화하고 있습니다.
+이 레포지토리는 `Yeram-DEV`의 프로젝트 관리를 위한 중앙 장소입니다. 여기에서는 이슈 추적, 마일스톤 설정, 프로젝트 진행 상황 관리, 그리고 팀 간의 대화를 조직화하고 있습니다.
 
 ## 🎯 이슈 추적 🎯
 
